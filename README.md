@@ -14,13 +14,13 @@ Provides advice and guidance on a variety of IT-related matters, such as securit
 
 ## Problem Statement
 
-The sales director of Atliq Hardware is encountering difficulties in monitoring sales in a rapidly expanding market. He lacks direct access to track the business's performance, relying instead on monthly updates from regional managers in the north, south, and central regions. However, he finds these updates to be incomplete, inadequate, and lacking in detail, especially concerning as sales decline in most regions.
+The sales director of Atliq Hardware is encountering difficulties in monitoring sales in a rapidly expanding market. He lacks direct access to track the business's performance, relying instead on monthly updates from regional managers in the north, south, and central regions. However, he finds these updates to be incomplete, inadequate, and lacking in detail, especially concerning sales decline in most regions.
 
 Specific challenges faced by the sales director include:
 
-Lack of real-time sales tracking, as he only receives monthly data, hampering timely decision-making.
-Limited insight into sales performance across different regions and product categories.
-Difficulty in identifying sales trends, hindering his ability to predict future sales and make informed marketing and pricing decisions.
+*  Lack of real-time sales tracking, as he only receives monthly data, hampering timely decision-making.
+*  Limited insight into sales performance across different regions and product categories.
+*  Difficulty in identifying sales trends, hindering his ability to predict future sales and make informed marketing and pricing decisions.
 
 
 
