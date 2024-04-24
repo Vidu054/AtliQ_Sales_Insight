@@ -22,6 +22,8 @@ Specific challenges faced by the sales director include:
 *  Limited insight into sales performance across different regions and product categories.
 *  Difficulty in identifying sales trends, hindering his ability to predict future sales and make informed marketing and pricing decisions.
 
+## Solution
+
 
 
 <img width="959" alt="Sales_Analysis" src="https://github.com/Vidu054/AtliQ_Sales_Insight/assets/107995442/40951001-e36d-4a11-b9ce-6d8fbc39eee7">
