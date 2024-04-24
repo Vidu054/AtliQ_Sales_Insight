@@ -3,14 +3,15 @@
 ## About the Company:
 
 AtliQ was established in 2017 as an IT services company to help businesses integrate their processes with automated tools. It is Headquartered in Vadodara, Gujarat
-It also supplies computer hardware peripherals to their clients across various different cities in India such as in Delhi NCR, Bhubaneshwar, Surat, Nagpur etc.
+It also supplies computer hardware peripherals to its clients across various cities in India such as Delhi NCR, Bhubaneshwar, Surat, Nagpur etc.
 The company's IT services include:
 * Web development:
 Design and development of custom websites that meet the specific needs of the business.
 * Digital marketing:
-Develops and execute digital marketing strategies that can help business reach their target audiences and achieve the desired business goals.
+Develops and executes digital marketing strategies that can help business reach their target audiences and achieve the desired business goals.
 * IT consulting:
 Provides advice and guidance on a variety of IT-related matters, such as security, cloud computing, and mobile app development.
+
 
 
 <img width="959" alt="Sales_Analysis" src="https://github.com/Vidu054/AtliQ_Sales_Insight/assets/107995442/40951001-e36d-4a11-b9ce-6d8fbc39eee7">
