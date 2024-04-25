@@ -24,6 +24,12 @@ Specific challenges faced by the sales director include:
 
 ## Solution
 
+The Sales Director at Atliq Hardware aims to enhance sales performance and decision-making through the implementation of a Power BI dashboard. The dashboard will furnish real-time sales insights, regional and product-specific sales performance analytics, and trend analysis. These features will empower the Sales Director to make informed decisions regarding marketing strategies, pricing adjustments, and product development initiatives. Specifically, the dashboard will enable:
+
+*  Real-time sales monitoring to facilitate prompt decision-making on marketing, pricing, and product strategies.
+*  Detailed analysis of sales performance across regions and product categories, offering valuable insights into market dynamics.
+*  Generate actionable insights from profit margin analysis to drive strategic planning, resource allocation, and performance improvement initiatives.
+
 
 
 <img width="959" alt="Sales_Analysis" src="https://github.com/Vidu054/AtliQ_Sales_Insight/assets/107995442/40951001-e36d-4a11-b9ce-6d8fbc39eee7">
