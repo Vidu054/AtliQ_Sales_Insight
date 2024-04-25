@@ -30,7 +30,13 @@ The Sales Director at Atliq Hardware aims to enhance sales performance and decis
 *  Detailed analysis of sales performance across regions and product categories, offering valuable insights into market dynamics.
 *  Generate actionable insights from profit margin analysis to drive strategic planning, resource allocation, and performance improvement initiatives.
 
+## Processes Undertaken:
 
+*  Initiated project planning utilizing the AIMS Grid & Data Discovery methodology.
+*  Utilized MySQL to extract insights from the data, focusing on metrics such as sales, revenue, transactions, and market trends to gain a comprehensive project overview.
+*  Executed the Extract, Transform, Load (ETL) process from MySQL to Power BI.
+*  Employed Power Query Editor for data cleansing, implemented new measures using DAX, and incorporated additional relevant columns to enhance data quality and analytical capabilities     in Power BI.
+*  Crafted a Power BI dashboard and concurrently validated results against MySQL.
 
 <img width="959" alt="Sales_Analysis" src="https://github.com/Vidu054/AtliQ_Sales_Insight/assets/107995442/40951001-e36d-4a11-b9ce-6d8fbc39eee7">
 
