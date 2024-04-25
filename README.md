@@ -38,6 +38,22 @@ The Sales Director at Atliq Hardware aims to enhance sales performance and decis
 *  Employed Power Query Editor for data cleansing, implemented new measures using DAX, and incorporated additional relevant columns to enhance data quality and analytical capabilities     in Power BI.
 *  Crafted a Power BI dashboard and concurrently validated results against MySQL.
 
+## Key Insights:
+
+*  Analysis of revenue and quantity by customer, date, and year.
+*  Evaluation of costs and revenue by region or market.
+*  Identification of top 5 customers and products, as well as bottom 5 customers and products.
+*  Calculation of profit margin percentage per market and profit margin contribution percentage per market.
+*  Assessment of revenue percentage by market and revenue contribution percentage by market.
+*  Analysis of sales and profit margin contribution percentage by zones, accompanied by the implementation of red alerts (via conditional formatting) to discern market performance   
+   within zones (North, South, West).
+*  Segmentation of sales for brick-and-mortar versus e-commerce customers.
+*  Comparison of revenue between the current year and the previous year during the same period.
+
+
+
+
+
 <img width="959" alt="Sales_Analysis" src="https://github.com/Vidu054/AtliQ_Sales_Insight/assets/107995442/40951001-e36d-4a11-b9ce-6d8fbc39eee7">
 
 <img width="959" alt="Sales_Analysis_2" src="https://github.com/Vidu054/AtliQ_Sales_Insight/assets/107995442/cea78a2c-2d54-49a5-91fa-599118307803">
